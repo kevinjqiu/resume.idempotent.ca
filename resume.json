@@ -16,17 +16,93 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "kevinjqiu",
-        "url": ""
-      },
-      {
         "network": "GitHub",
         "username": "kevinjqiu",
         "url": "https://github.com/kevinjqiu"
+      },
+      {
+        "network": "Twitter",
+        "username": "kevinjqiu",
+        "url": "https://twitter.com/kevinjqiu"
       }
     ]
   },
+  "skills": [
+    {
+      "name": "Backend Development",
+      "level": "Master",
+      "keywords": [
+        "Python - Flask",
+        "SQLAlchemy",
+        "MySQL",
+        "redis",
+        "elasticsearch",
+        "rabbitmq"
+      ]
+    },
+    {
+      "name": "Frontend Development",
+      "level": "Master",
+      "keywords": [
+        "JavaScript",
+        "HTML/css",
+        "Ember.js",
+        "handlebars",
+        "Google Web Toolkit"
+      ]
+    },
+    {
+      "name": "Other Languages and Platforms",
+      "keywords": [
+        "golang",
+        "clojure",
+        "scala",
+        "coffeescript",
+        "nodejs",
+        "ruby"
+      ]
+    },
+    {
+      "name": "Version Control",
+      "keywords": [
+        "git",
+        "mercurial"
+      ]
+    },
+    {
+      "name": "Continuous Integration",
+      "keywords": [
+        "jenkins",
+        "travis",
+        "coverall"
+      ]
+    },
+    {
+      "name": "Development Tools",
+      "keywords": [
+        "vim",
+        "tmux"
+      ]
+    },
+    {
+      "name": "QA Automation",
+      "keywords": [
+        "selenium",
+        "capybara"
+      ]
+    },
+    {
+      "name": "Operating Systems",
+      "keywords": [
+        "Ubuntu/Debian",
+        "Redhat/CentOS",
+        "ArchLinux"
+      ]
+    },
+    {
+      "name": "Internet Security"
+    }
+  ],
   "work": [
     {
       "company": "FreshBooks",
@@ -34,11 +110,11 @@
       "website": "https://www.freshbooks.com",
       "startDate": "2010-11",
       "endDate": "",
-      "summary": "",
+      "summary": "Being an integral part of many backend projects at FreshBooks",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
+        "Developer and Component Owner of the RESTful web service that's the business logic layer powering various FreshBooks front-ends",
+        "Developed RESTful web service for FreshBooks payment feature",
+        "Developed a journal entry system that's the accounting layer for FreshBooks entities (invoices/payments/credits)"
       ]
     },
     {
@@ -80,27 +156,12 @@
       "summary": "There is no spoon."
     }
   ],
-  "skills": [
-    {
-      "name": "Backend Development",
-      "level": "Master",
-      "keywords": [
-        "Python - Flask",
-        "SQLAlchemy"
-      ]
-    },
-    {
-      "name": "Frontend Development",
-      "level": "Master",
-      "keywords": [
-        "HTML",
-        "Ember.js"
-      ]
-    }
-  ],
   "interests": [
     {
       "name": "Piano"
+    },
+    {
+      "name": "World History and Geography"
     }
   ]
 }

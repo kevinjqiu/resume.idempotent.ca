@@ -6,7 +6,7 @@
     "email": "kevin at idempotent dot ca",
     "phone": "(416) XYZ-aabb",
     "website": "http://blog.idempotent.ca",
-    "summary": "A passion for technology, aptitude for learning and a knack for optimization",
+    "summary": "",
     "location": {
       "address": "--- ---- ------ --",
       "postalCode": "--- ---",
@@ -121,7 +121,8 @@
       "highlights": [
         "Developer and Component Owner of the RESTful web service that's the business logic layer powering various FreshBooks front-ends",
         "Developed RESTful web service for FreshBooks payment feature",
-        "Developed a journal entry system that's the accounting layer for FreshBooks entities (invoices/payments/credits)"
+        "Developed a journal entry system that's the accounting layer for FreshBooks entities (invoices/payments/credits)",
+        "Helped coaching and onboarding new developers"
       ]
     },
     {
@@ -132,6 +133,9 @@
       "endDate": "2010-11",
       "summary": "",
       "highlights": [
+        "Designed and implemented client side application framework using Model-View-Presenter pattern in GWT",
+        "Wrote and open sourced an ExtGWT plugin",
+        "Developed code review guideline"
       ]
     },
     {
@@ -140,6 +144,17 @@
       "website": "http://www.toyota.ca",
       "startDate": "2006-04",
       "endDate": "2007-04",
+      "summary": "",
+      "highlights": [
+        "Designed and implemented an automated black-box testing solution which helped to test automatically the availability of Toyota's online business intelligence application",
+        "Helped Toyota's mainframe supporting staff in developing a reporting facility on mainframe health check logs"
+      ]
+    },
+    {
+      "company": "Matrix Research Limited",
+      "position": "Junior Programmer",
+      "startDate": "2004-05",
+      "endDate": "2005-06",
       "summary": "",
       "highlights": [
       ]
@@ -153,14 +168,28 @@
       "startDate": "2005-09",
       "endDate": "2008-06",
       "gpa": "3.53/4.00"
+    },
+    {
+      "institution": "Seneca College of Applied Arts and Technology",
+      "area": "Computer Engineering",
+      "studyType": "Diploma",
+      "startDate": "2003-01",
+      "endDate": "2004-04",
+      "gpa": "4.00/4.00"
     }
   ],
   "awards": [
     {
-      "title": "Digital Compression Pioneer Award",
-      "date": "2014-11-01",
-      "awarder": "Techcrunch",
-      "summary": "There is no spoon."
+      "title": "Graduated with Distinction",
+      "date": "2008",
+      "awarder": "University of Toronto",
+      "summary": "CGPA 3.53/4.00"
+    },
+    {
+      "title": "Graduated with High Honours",
+      "date": "2004",
+      "awarder": "Seneca College",
+      "summary": "CGPA 4.00/4.00"
     }
   ],
   "interests": [

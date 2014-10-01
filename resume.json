@@ -4,9 +4,9 @@
     "label": "Software Developer",
     "picture": "",
     "email": "kevin at idempotent dot ca",
-    "phone": "Available Upon Request",
+    "phone": "(416) XYZ-aabb",
     "website": "http://blog.idempotent.ca",
-    "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
+    "summary": "A passion for technology, aptitude for learning and a knack for optimization",
     "location": {
       "address": "--- ---- ------ --",
       "postalCode": "--- ---",
@@ -100,6 +100,13 @@
       ]
     },
     {
+      "name": "DevOps",
+      "keywords": [
+        "puppet",
+        "docker"
+      ]
+    },
+    {
       "name": "Internet Security"
     }
   ],
@@ -162,6 +169,9 @@
     },
     {
       "name": "World History and Geography"
+    },
+    {
+      "name": "Siberian Huskies"
     }
   ]
 }

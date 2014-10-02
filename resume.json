@@ -3,7 +3,7 @@
     "name": "Kevin Jing Qiu",
     "label": "Software Developer",
     "picture": "",
-    "email": "kevin at idempotent dot ca",
+    "email": "kevin@idempotent.ca",
     "phone": "(416) XYZ-aabb",
     "website": "http://blog.idempotent.ca",
     "summary": "Kevin enjoys programming and sees hacking on software as a way of life rather than just a job. His brain is full of useless facts such as flags of the world and believes that the geek shall inherit the earth. When he's not coding, he can be found enjoying light classy music, playing his favourite tunes on the keyboard (musical), keeping his new born daughter entertained and fine tuning his vim+tmux setup.",
@@ -30,7 +30,6 @@
   "skills": [
     {
       "name": "Backend Development",
-      "level": "Master",
       "keywords": [
         "Python - Flask",
         "SQLAlchemy",
@@ -42,7 +41,6 @@
     },
     {
       "name": "Frontend Development",
-      "level": "Master",
       "keywords": [
         "JavaScript",
         "HTML/css",
@@ -108,6 +106,9 @@
     },
     {
       "name": "Internet Security"
+      "keywors": [
+        "OWASP Top 10"
+      ]
     }
   ],
   "work": [
@@ -115,8 +116,7 @@
       "company": "FreshBooks",
       "position": "Software Developer",
       "website": "https://www.freshbooks.com",
-      "startDate": "2010-11",
-      "endDate": "",
+      "startDate": "2010-11-01",
       "summary": "Being an integral part of many backend projects at FreshBooks",
       "highlights": [
         "Developer and Component Owner of the RESTful web service that's the business logic layer powering various FreshBooks front-ends",
@@ -129,8 +129,8 @@
       "company": "CaseWare International",
       "position": "Software Developer",
       "website": "https://www.caseware.com",
-      "startDate": "2008-06",
-      "endDate": "2010-11",
+      "startDate": "2008-06-01",
+      "endDate": "2010-11-01",
       "summary": "",
       "highlights": [
         "Designed and implemented client side application framework using Model-View-Presenter pattern in GWT",
@@ -142,8 +142,8 @@
       "company": "Toyota Canada",
       "position": "Technical Consultant (Co-op)",
       "website": "http://www.toyota.ca",
-      "startDate": "2006-04",
-      "endDate": "2007-04",
+      "startDate": "2006-04-01",
+      "endDate": "2007-04-01",
       "summary": "",
       "highlights": [
         "Designed and implemented an automated black-box testing solution which helped to test automatically the availability of Toyota's online business intelligence application",
@@ -153,8 +153,8 @@
     {
       "company": "Matrix Research Limited",
       "position": "Junior Programmer",
-      "startDate": "2004-05",
-      "endDate": "2005-06",
+      "startDate": "2004-05-01",
+      "endDate": "2005-06-01",
       "summary": "",
       "highlights": [
       ]
@@ -165,29 +165,29 @@
       "institution": "University of Toronto",
       "area": "Computer Science",
       "studyType": "Bachelor",
-      "startDate": "2005-09",
-      "endDate": "2008-06",
+      "startDate": "2005-09-01",
+      "endDate": "2008-06-01",
       "gpa": "3.53/4.00"
     },
     {
       "institution": "Seneca College of Applied Arts and Technology",
       "area": "Computer Engineering",
       "studyType": "Diploma",
-      "startDate": "2003-01",
-      "endDate": "2004-04",
+      "startDate": "2003-01-01",
+      "endDate": "2004-04-01",
       "gpa": "4.00/4.00"
     }
   ],
   "awards": [
     {
       "title": "Graduated with Distinction",
-      "date": "2008",
+      "date": "2008-06-01",
       "awarder": "University of Toronto",
       "summary": "CGPA 3.53/4.00"
     },
     {
       "title": "Graduated with High Honours",
-      "date": "2004",
+      "date": "2004-06-01",
       "awarder": "Seneca College",
       "summary": "CGPA 4.00/4.00"
     }

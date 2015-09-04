@@ -113,10 +113,20 @@
   ],
   "work": [
     {
+      "company": "Points International",
+      "position": "Senior Software Developer",
+      "website": "https://www.freshbooks.com",
+      "startDate": "2015-06-01",
+      "summary": "Various micro-services that powers the new generation of Points' loyalty commerce platform",
+      "highlights": [
+      ]
+    },
+    {
       "company": "FreshBooks",
       "position": "Software Developer",
       "website": "https://www.freshbooks.com",
       "startDate": "2010-11-01",
+      "endDate": "2015-05-31",
       "summary": "Being an integral part of many backend projects at FreshBooks",
       "highlights": [
         "Developer and Component Owner of the RESTful web service that's the business logic layer powering various FreshBooks front-ends",

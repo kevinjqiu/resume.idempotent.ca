@@ -2,9 +2,10 @@
   "name": "resume",
   "version": "1.0.0",
   "description": "My resume",
-  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node_modules/resume-cli/index.js serve",
+    "export": "node_modules/resume-cli/index.js export --format .html resume.json",
+    "test": "node_modules/resume-cli/index.js test"
   },
   "repository": {
     "type": "git",

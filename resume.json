@@ -119,6 +119,7 @@
       "startDate": "2015-06-01",
       "summary": "Various micro-services that powers the new generation of Points' loyalty commerce platform",
       "highlights": [
+        "Implemented new features for the Points Buy/Gift/Transfer micro-services"
       ]
     },
     {

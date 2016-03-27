@@ -101,13 +101,15 @@
       "name": "DevOps",
       "keywords": [
         "puppet",
-        "docker"
+        "docker",
+        "vagrant"
       ]
     },
     {
       "name": "Internet Security",
       "keywords": [
-        "OWASP Top 10"
+        "OWASP Top 10",
+        "Familiarity with SSL"
       ]
     }
   ],
@@ -115,11 +117,14 @@
     {
       "company": "Points International",
       "position": "Senior Software Developer",
-      "website": "https://www.freshbooks.com",
+      "website": "https://www.points.com",
       "startDate": "2015-06-01",
       "summary": "Various micro-services that powers the new generation of Points' loyalty commerce platform",
       "highlights": [
-        "Implemented new features for the Points Buy/Gift/Transfer micro-services"
+        "Implemented scheduled report sysetem",
+        "Implemented new features for the Points Buy/Gift/Transfer micro-services for the loyalty commerce platform",
+        "Facilitate Docker upgrade",
+        "Improved Dev infrastructure"
       ]
     },
     {

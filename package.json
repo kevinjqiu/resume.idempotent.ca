@@ -4,8 +4,9 @@
   "description": "My resume",
   "scripts": {
     "start": "node_modules/resume-cli/index.js serve",
-    "export": "node_modules/resume-cli/index.js export --format .html resume.json",
-    "test": "node_modules/resume-cli/index.js test"
+    "export": "node_modules/resume-cli/index.js export --format .html --theme classy resume.json",
+    "test": "node_modules/resume-cli/index.js test",
+    "publish": "node_modules/resume-cli/index.js publish"
   },
   "repository": {
     "type": "git",

@@ -132,10 +132,10 @@
       "position": "Senior Software Developer",
       "website": "https://www.points.com",
       "startDate": "2015-06-01",
-      "summary": "Worked on micro-services that powers the Points' next generation loyalty commerce platform",
+      "summary": "Worked on microservices that powers the Points' next generation loyalty commerce platform",
       "highlights": [
         "Performance profiling and analysis using locust, newrelic and flood.io",
-        "Implemented new features for the Points Buy/Gift/Transfer micro-services for the loyalty commerce platform",
+        "Implemented new features for the Points Buy/Gift/Transfer microservices for the loyalty commerce platform",
         "Facilitated Docker upgrade",
         "Improved Dev infrastructure and workflow automation"
       ]

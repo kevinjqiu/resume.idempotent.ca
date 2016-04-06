@@ -37,6 +37,7 @@
             "devops-minded",
             "agile - scrum"
         ]
+    },
     {
       "name": "Backend Development",
       "keywords": [
@@ -79,7 +80,7 @@
       "name": "Continuous Integration",
       "keywords": [
         "jenkins",
-        "travis",
+        "travis"
       ]
     },
     {

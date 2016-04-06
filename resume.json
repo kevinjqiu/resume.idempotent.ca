@@ -4,7 +4,7 @@
     "label": "Software Developer",
     "picture": "",
     "email": "kevin@idempotent.ca",
-    "phone": "(416) XYZ-aabb",
+    "phone": "(416) nnn-nnnn",
     "website": "http://blog.idempotent.ca",
     "summary": "Kevin enjoys programming and sees hacking on software as a way of life rather than just a job. His brain is full of useless facts such as flags of the world and believes that the geek shall inherit the earth. When he's not coding, he can be found enjoying light classy music, playing his favourite tunes on the keyboard (musical), keeping his new born daughter entertained and fine tuning his vim+tmux setup.",
     "location": {
@@ -29,11 +29,21 @@
   },
   "skills": [
     {
+        "name": "Highlights",
+        "keywords": [
+            "Python",
+            "RESTful web service",
+            "microservices",
+            "devops-minded",
+            "agile - scrum"
+        ]
+    {
       "name": "Backend Development",
       "keywords": [
-        "Python - Flask",
-        "SQLAlchemy",
+        "Python::Flask",
+        "Python::SQLAlchemy",
         "MySQL",
+        "couchdb",
         "redis",
         "elasticsearch",
         "rabbitmq"
@@ -42,10 +52,7 @@
     {
       "name": "Frontend Development",
       "keywords": [
-        "JavaScript",
-        "HTML/css",
-        "Ember.js",
-        "handlebars",
+        "JavaScript (Ember.js, React/Redux)",
         "Google Web Toolkit"
       ]
     },
@@ -57,7 +64,8 @@
         "scala",
         "coffeescript",
         "nodejs",
-        "ruby"
+        "ruby",
+        "java"
       ]
     },
     {
@@ -72,7 +80,6 @@
       "keywords": [
         "jenkins",
         "travis",
-        "coverall"
       ]
     },
     {
@@ -83,18 +90,18 @@
       ]
     },
     {
-      "name": "QA Automation",
-      "keywords": [
-        "selenium",
-        "capybara"
-      ]
-    },
-    {
       "name": "Operating Systems",
       "keywords": [
         "Ubuntu/Debian",
         "Redhat/CentOS",
-        "ArchLinux"
+        "archlinux"
+      ]
+    },
+    {
+      "name": "QA Automation",
+      "keywords": [
+        "selenium",
+        "capybara"
       ]
     },
     {
@@ -103,14 +110,17 @@
         "ansible",
         "puppet",
         "docker",
-        "vagrant"
+        "vagrant",
+        "ec2",
+        "s3",
+        "digital ocean"
       ]
     },
     {
-      "name": "Internet Security",
+      "name": "Web Security",
       "keywords": [
-        "OWASP Top 10",
-        "Familiarity with SSL"
+        "OWASP",
+        "Familiarity with SSL/TLS"
       ]
     }
   ],
@@ -120,13 +130,12 @@
       "position": "Senior Software Developer",
       "website": "https://www.points.com",
       "startDate": "2015-06-01",
-      "summary": "Various micro-services that powers the new generation of Points' loyalty commerce platform",
+      "summary": "Worked on micro-services that powers the Points' next generation loyalty commerce platform",
       "highlights": [
-        "Performance profiling and analysis using locust and newrelic",
-        "Implemented scheduled report sysetem",
+        "Performance profiling and analysis using locust, newrelic and flood.io",
         "Implemented new features for the Points Buy/Gift/Transfer micro-services for the loyalty commerce platform",
-        "Facilitate Docker upgrade",
-        "Improved Dev infrastructure"
+        "Facilitated Docker upgrade",
+        "Improved Dev infrastructure and workflow automation"
       ]
     },
     {
@@ -135,10 +144,11 @@
       "website": "https://www.freshbooks.com",
       "startDate": "2010-11-01",
       "endDate": "2015-05-31",
-      "summary": "Being an integral part of many backend projects at FreshBooks",
+      "summary": "Being an integral part of many backend services at FreshBooks",
       "highlights": [
         "Developer and Component Owner of the RESTful web service that's the business logic layer powering various FreshBooks front-ends",
-        "Developed RESTful web service for FreshBooks payment feature",
+        "Facilitated delayed-retry of payment events using rabbitmq dead-letter exchange",
+        "Developed RESTful web service for FreshBooks payment feature (both ACH and credit card payments)",
         "Developed a journal entry system that's the accounting layer for FreshBooks entities (invoices/payments/credits)",
         "Coached and onboarded new developers"
       ]

@@ -6,7 +6,8 @@
     "start": "node_modules/resume-cli/index.js serve",
     "export": "node_modules/resume-cli/index.js export --format .html --theme classy resume.json",
     "test": "node_modules/resume-cli/index.js test",
-    "publish": "node_modules/resume-cli/index.js publish --theme classy"
+    "publish": "node_modules/resume-cli/index.js publish --theme classy",
+    "login": "node_modules/resume-cli/index.js login"
   },
   "repository": {
     "type": "git",

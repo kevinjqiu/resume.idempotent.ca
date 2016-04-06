@@ -6,6 +6,13 @@
     "email": "kevin@idempotent.ca",
     "website": "http://blog.idempotent.ca",
     "summary": "Kevin enjoys programming and sees hacking on software as a way of life rather than just a job. His brain is full of useless facts such as flags of the world and believes that the geek shall inherit the earth. When he's not coding, he can be found enjoying light classy music, playing his favourite tunes on the keyboard (musical), keeping his new born daughter entertained and fine tuning his vim+tmux setup.",
+    "location": {
+      "address": "--- ---- ------ --",
+      "postalCode": "--- ---",
+      "city": "Vaughan",
+      "countryCode": "CA",
+      "region": "Ontario"
+    },
     "profiles": [
       {
         "network": "github",

@@ -7,8 +7,8 @@
     "website": "http://blog.idempotent.ca",
     "summary": "Kevin enjoys programming and sees hacking on software as a way of life rather than just a job. His brain is full of useless facts such as flags of the world and believes that the geek shall inherit the earth. When he's not coding, he can be found enjoying light classy music, playing his favourite tunes on the keyboard (musical), keeping his new born daughter entertained and fine tuning his vim+tmux setup.",
     "location": {
-      "address": "--- ---- ------ --",
-      "postalCode": "--- ---",
+      "address": "",
+      "postalCode": "",
       "city": "Vaughan",
       "countryCode": "CA",
       "region": "Ontario"
@@ -134,9 +134,9 @@
       "summary": "Worked on microservices that powers the Points' next generation loyalty commerce platform",
       "highlights": [
         "Performance profiling and analysis using locust, newrelic and flood.io",
-        "Implemented new features for the Points Buy/Gift/Transfer microservices for the loyalty commerce platform",
+        "Implemented new features for the Points Buy/Gift/Transfer/Orders/Reporting microservices for the loyalty commerce platform",
         "Facilitated Docker upgrade",
-        "Improved Dev infrastructure and workflow automation"
+        "Constantly improve dev infrastructure and workflow automation"
       ]
     },
     {

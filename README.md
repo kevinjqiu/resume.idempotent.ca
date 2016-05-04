@@ -20,10 +20,10 @@ Install
 Preview
 =======
 
-	npm run
+    npm run
 
 Build
 =====
 
-	npm run export
-	npm run publish
+    npm run export
+    npm run publish

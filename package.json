@@ -4,7 +4,7 @@
   "description": "My resume",
   "scripts": {
     "start": "node_modules/resume-cli/index.js serve",
-    "export": "node_modules/resume-cli/index.js export --format html --theme classy resume.json",
+    "export": "node_modules/resume-cli/index.js export --format html --theme classy index.html",
     "test": "node_modules/resume-cli/index.js test",
     "publish": "node_modules/resume-cli/index.js publish --theme classy",
     "login": "node_modules/resume-cli/index.js login"
@@ -21,6 +21,7 @@
   "homepage": "https://gitlab.com/hierarchicalpolymorphist/resume#README",
   "dependencies": {
     "jshint": "^2.9.1",
+    "jsonresume-theme-classy": "^1.0.9",
     "resume-cli": "^0.4.11"
   }
 }

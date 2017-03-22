@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Kevin Jing Qiu",
-    "label": "Software Developer",
+    "label": "Software Engineer",
     "picture": "",
     "email": "kevin@idempotent.ca",
     "website": "http://blog.idempotent.ca",
@@ -59,6 +59,23 @@
       ]
     },
     {
+      "name": "DevOps/Infrastructure",
+      "keywords": [
+        "ansible",
+        "puppet",
+        "docker",
+        "vagrant",
+        "terraform",
+        "packer",
+        "consul",
+        "aws",
+        "ec2",
+        "s3",
+        "aws-lambda",
+        "digital ocean"
+      ]
+    },
+    {
       "name": "Frontend Development",
       "keywords": [
         "JavaScript (Ember.js, React/Redux)",
@@ -112,23 +129,6 @@
         "selenium",
         "capybara"
       ]
-    },
-    {
-      "name": "DevOps/Infrastructure",
-      "keywords": [
-        "ansible",
-        "puppet",
-        "docker",
-        "vagrant",
-        "terraform",
-        "packer",
-        "consul",
-        "aws",
-        "ec2",
-        "s3",
-        "aws-lambda",
-        "digital ocean"
-      ]
     }
   ],
   "work": [
@@ -137,7 +137,7 @@
       "position": "Senior Development Engineer/Infrastructure Engineer",
       "website": "https://www.points.com",
       "startDate": "2015-06-01",
-      "summary": "Worked on microservices that powers the Points' next generation loyalty commerce platform",
+      "summary": "Worked on microservices and the supporting infrastructure that power the Points' new generation loyalty commerce platform",
       "highlights": [
         "Migrating on-premises infrastructure to AWS",
         "Developed tooling around building AMIs and deploying to a tiered VPC",

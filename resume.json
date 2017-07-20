@@ -36,8 +36,9 @@
         "name": "Highlights",
         "keywords": [
             "Python",
+            "golang",
+            "kubernetes",
             "docker",
-            "aws",
             "consul",
             "couchdb",
             "RESTful web service",
@@ -61,6 +62,8 @@
     {
       "name": "DevOps/Infrastructure",
       "keywords": [
+        "kubernetes",
+        "prometheus",
         "ansible",
         "puppet",
         "docker",
@@ -86,11 +89,11 @@
       "name": "Other Languages and Platforms",
       "keywords": [
         "golang",
+        "ruby",
         "clojure",
-        "scala",
         "coffeescript",
         "nodejs",
-        "ruby",
+        "scala",
         "java"
       ]
     },
@@ -105,6 +108,7 @@
       "name": "Continuous Integration",
       "keywords": [
         "jenkins",
+        "gitlab-ci",
         "travis"
       ]
     },
@@ -112,7 +116,8 @@
       "name": "Development Tools",
       "keywords": [
         "vim",
-        "tmux"
+        "tmux",
+        "visual studio code"
       ]
     },
     {
@@ -134,14 +139,24 @@
   "work": [
     {
       "company": "Points International",
-      "position": "Senior Development Engineer/Infrastructure Engineer",
+      "position": "Site Reliability Engineer",
+      "website": "https://www.points.com",
+      "startDate": "2016-06-15",
+      "summary": "Dev Tools, Continuous Integration, Kubernetes",
+      "highlights": [
+        "Built and operated Kubernetes cluster on AWS",
+        "Built Monitoring infrastructure around Prometheus and Grafana",
+        "Built a clustered locust based load testing environment",
+        "Developed tooling around building AMIs and deploying to a tiered VPC"
+      ]
+    },
+    {
+      "company": "Points International",
+      "position": "Senior Development Engineer (Python)",
       "website": "https://www.points.com",
       "startDate": "2015-06-01",
       "summary": "Worked on microservices and the supporting infrastructure that power the Points' new generation loyalty commerce platform",
       "highlights": [
-        "Migrating on-premises infrastructure to AWS",
-        "Developed tooling around building AMIs and deploying to a tiered VPC",
-        "Built a clustered locust based load testing environment",
         "Performance profiling and analysis using locust, newrelic and flood.io",
         "Implemented new features for the Points Buy/Gift/Transfer/Orders/Reporting microservices for the loyalty commerce platform",
         "Facilitated Docker upgrade",

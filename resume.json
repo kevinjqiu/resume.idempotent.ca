@@ -39,12 +39,12 @@
             "golang",
             "kubernetes",
             "docker",
-            "consul",
+            "prometheus",
             "couchdb",
             "RESTful web service",
             "microservices",
-            "devops",
-            "agile - scrum"
+            "devops-minded",
+            "agile (scrum)"
         ]
     },
     {
@@ -63,11 +63,12 @@
       "name": "DevOps/Infrastructure",
       "keywords": [
         "kubernetes",
+        "docker",
         "prometheus",
+        "grafana",
+        "etcd",
         "ansible",
         "puppet",
-        "docker",
-        "vagrant",
         "terraform",
         "packer",
         "consul",
@@ -81,7 +82,8 @@
     {
       "name": "Frontend Development",
       "keywords": [
-        "JavaScript (Ember.js, React/Redux)",
+        "React / Redux / ReactRouter",
+        "Ember",
         "Google Web Toolkit"
       ]
     },
@@ -90,9 +92,9 @@
       "keywords": [
         "golang",
         "ruby",
+        "nodejs",
         "clojure",
         "coffeescript",
-        "nodejs",
         "scala",
         "java"
       ]
@@ -107,22 +109,25 @@
     {
       "name": "Continuous Integration",
       "keywords": [
-        "jenkins",
         "gitlab-ci",
-        "travis"
+        "jenkins",
+        "travis",
+        "circle-ci"
       ]
     },
     {
-      "name": "Development Tools",
+      "name": "Development Tools / Environments",
       "keywords": [
         "vim",
         "tmux",
-        "visual studio code"
+        "visual studio code",
+        "goland"
       ]
     },
     {
       "name": "Operating Systems",
       "keywords": [
+        "CoreOS",
         "Ubuntu/Debian",
         "Redhat/CentOS",
         "archlinux"
@@ -144,9 +149,11 @@
       "startDate": "2016-06-15",
       "summary": "Dev Tools, Continuous Integration, Kubernetes",
       "highlights": [
-        "Built and operated Kubernetes cluster on AWS",
-        "Built Monitoring infrastructure around Prometheus and Grafana",
-        "Built a clustered locust based load testing environment",
+        "Implemented Points Kubernetes cluster on AWS and later migrated to On-Prem",
+        "Built monitoring/alerting/dashboarding infrastructure around Prometheus federation and Grafana",
+        "Developed tooling for implementing filtered replication for CouchDB to reduce disk space usage",
+        "Started to implement tracing of LCP/BGT microservice stack using opentracing/Jaeger",
+        "Built a clustered load testing environment based on Locust",
         "Developed tooling around building AMIs and deploying to a tiered VPC"
       ]
     },
@@ -155,12 +162,12 @@
       "position": "Senior Development Engineer (Python)",
       "website": "https://www.points.com",
       "startDate": "2015-06-01",
-      "summary": "Worked on microservices and the supporting infrastructure that power the Points' new generation loyalty commerce platform",
+      "summary": "Worked on microservices and the supporting infrastructure that power the Points' new generation Loyalty Commerce Platform",
       "highlights": [
         "Performance profiling and analysis using locust, newrelic and flood.io",
         "Implemented new features for the Points Buy/Gift/Transfer/Orders/Reporting microservices for the loyalty commerce platform",
-        "Facilitated Docker upgrade",
-        "Constantly improve dev infrastructure and workflow automation"
+        "Built tooling based on docker-compose to provide devs with a way to develop / test Points BGT/LCP stack locally and on CI",
+        "Built tooling that consolidates development and deployment for Python-based microservices"
       ]
     },
     {

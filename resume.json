@@ -55,8 +55,8 @@
         "MySQL",
         "couchdb",
         "redis",
-        "elasticsearch",
-        "rabbitmq"
+        "rabbitmq",
+        "elasticsearch"
       ]
     },
     {
@@ -72,11 +72,7 @@
         "terraform",
         "packer",
         "consul",
-        "aws",
-        "ec2",
-        "s3",
-        "aws-lambda",
-        "digital ocean"
+        "aws"
       ]
     },
     {

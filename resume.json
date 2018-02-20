@@ -219,6 +219,25 @@
       "summary": "",
       "highlights": [
       ]
+    },
+    {
+      "company": "Open Source Contributions",
+      "position": "",
+      "startDate": "2009",
+      "summary": "",
+      "highlights": [
+        "kubernetes/charts",
+        "containous/traefik",
+        "kubernetes-incubator/kubespray",
+        "opentracing/opentracing-python",
+        "opentracing-contrib/python-flask",
+        "kubernetes-incubator/external-dns",
+        "djc/couchdb-python",
+        "fabric/fabric",
+        "jonathanslenders/python-prompt-toolkit",
+        "kevinjqiu/cdbcli",
+        "kevinjqiu/florinapp"
+      ]
     }
   ],
   "education": [

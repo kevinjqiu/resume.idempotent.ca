@@ -147,7 +147,7 @@
       "position": "Site Reliability Engineer",
       "website": "https://www.points.com",
       "startDate": "2016-06-15",
-      "summary": "Dev Tools, Continuous Integration, Kubernetes",
+      "summary": "Dev Tools, Continuous Integration, Kubernetes, Performance, Data Services",
       "highlights": [
         "Implemented Points Kubernetes cluster on AWS and later migrated to On-Prem",
         "Built monitoring/alerting/dashboarding infrastructure around Prometheus federation and Grafana",
@@ -162,6 +162,7 @@
       "position": "Senior Development Engineer (Python)",
       "website": "https://www.points.com",
       "startDate": "2015-06-01",
+      "endDate": "2016-06-15",
       "summary": "Worked on microservices and the supporting infrastructure that power the Points' new generation Loyalty Commerce Platform",
       "highlights": [
         "Performance profiling and analysis using locust, newrelic and flood.io",

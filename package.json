@@ -22,7 +22,7 @@
   "dependencies": {
     "jshint": "^2.9.5",
     "jsonresume-theme-classy": "^1.0.9",
-    "resume-cli": "^0.4.11",
+    "resume-cli": "^0.4.19",
     "yaml2json": "^1.0.2"
   }
 }

@@ -225,14 +225,16 @@
         "kubernetes/charts",
         "containous/traefik",
         "kubernetes-incubator/kubespray",
+        "churchio/onebody",
         "opentracing/opentracing-python",
         "opentracing-contrib/python-flask",
         "kubernetes-incubator/external-dns",
         "djc/couchdb-python",
         "fabric/fabric",
         "jonathanslenders/python-prompt-toolkit",
+        "florinapp/florinapp",
         "kevinjqiu/cdbcli",
-        "kevinjqiu/florinapp"
+        "kevinjqiu/phantomail"
       ]
     }
   ],

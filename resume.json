@@ -53,6 +53,7 @@
         "Python::Flask",
         "Python::SQLAlchemy",
         "MySQL",
+        "postgresql",
         "couchdb",
         "redis",
         "rabbitmq",
@@ -117,13 +118,13 @@
         "vim",
         "tmux",
         "visual studio code",
-        "goland"
+        "GoLand"
       ]
     },
     {
       "name": "Operating Systems",
       "keywords": [
-        "CoreOS",
+        "CoreOS (Container Linux)",
         "Ubuntu/Debian",
         "Redhat/CentOS",
         "archlinux"
@@ -145,8 +146,9 @@
       "startDate": "2016-06-15",
       "summary": "Dev Tools, Continuous Integration, Kubernetes, Performance, Data Services",
       "highlights": [
-        "Implemented Points Kubernetes cluster on AWS and later migrated to On-Prem",
+        "Building an internal PAAS to aid teams to deploy their microservices to the Kubernetes cluster (nodejs/postgresql)",
         "Built monitoring/alerting/dashboarding infrastructure around Prometheus federation and Grafana",
+        "Implemented Points Kubernetes cluster on AWS and later migrated to On-Prem",
         "Developed tooling for implementing filtered replication for CouchDB to reduce disk space usage",
         "Started to implement tracing of LCP/BGT microservice stack using opentracing/Jaeger",
         "Built a clustered load testing environment based on Locust",

@@ -228,6 +228,7 @@
         "containous/traefik",
         "kubernetes-incubator/kubespray",
         "churchio/onebody",
+        "raveljs/ravel",
         "opentracing/opentracing-python",
         "opentracing-contrib/python-flask",
         "kubernetes-incubator/external-dns",

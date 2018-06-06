@@ -21,6 +21,7 @@
   "homepage": "https://gitlab.com/hierarchicalpolymorphist/resume#README",
   "dependencies": {
     "jshint": "^2.9.5",
+    "jsonlint": "^1.6.3",
     "jsonresume-theme-classy": "^1.0.9",
     "resume-cli": "^0.4.19",
     "yaml2json": "^1.0.2"

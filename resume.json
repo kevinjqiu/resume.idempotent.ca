@@ -41,6 +41,7 @@
             "docker",
             "prometheus",
             "couchdb",
+            "timescaledb",
             "RESTful web service",
             "microservices",
             "devops-minded",
@@ -50,6 +51,7 @@
     {
       "name": "Backend Development",
       "keywords": [
+        "golang",
         "Python::Flask",
         "Python::SQLAlchemy",
         "MySQL",
@@ -64,6 +66,7 @@
       "name": "DevOps/Infrastructure",
       "keywords": [
         "kubernetes",
+        "helm",
         "docker",
         "prometheus",
         "grafana",
@@ -140,10 +143,38 @@
   ],
   "work": [
     {
+      "company": "SoundHound",
+      "position": "Senior Software Engineer / Principal Engineer",
+      "website": "https://www.soundhound.com",
+      "startDate": "2018-09-15",
+      "summary": "Kubernetes, Observability, Microservices, Cloud-Native",
+      "highlights": [
+        "introduced kubernetes (AKS/GKE) as a cloud deployment platform for houndify microservices",
+        "-- use terraform for provisioning infrastructure",
+        "-- helm/helmfile for kube configuration management",
+        "built dev tools for integrating services with kubernetes locally",
+        "built microservices for 3rd party integration",
+        "provided feedback on designs of various projects",
+        "-- encryption/decryption library/service",
+        "-- frontend proxy rewrite and service discovery",
+        "introduced golang project standards",
+        "-- library for common metrics, telemetry and versioning",
+        "-- release pipeline using goreleaser",
+        "-- gitlab CI/CD job generation using dhall",
+        "introduced opentracing/opentelemetry",
+        "-- integrated in the stack using jaeger",
+        "built kafka consumers for collecting metrics to populate observability dashboards",
+        "-- built a custom grafana datasource to aggregate and expose metrics on a high level to business stakeholders (golang)",
+        "-- rewrote and maintained a service for debugging text/voice query",
+        "interviewed candidates for both the distributed systems team and SRE team"
+      ]
+    },
+    {
       "company": "Points International",
       "position": "Site Reliability Engineer",
       "website": "https://www.points.com",
       "startDate": "2016-06-15",
+      "endDate": "2018-09-15",
       "summary": "Dev Tools, Continuous Integration, Kubernetes, Performance, Data Services",
       "highlights": [
         "Building an internal PAAS to aid teams to deploy their microservices to the Kubernetes cluster (nodejs/postgresql)",
@@ -237,11 +268,20 @@
         "jonathanslenders/python-prompt-toolkit",
         "florinapp/florinapp",
         "kevinjqiu/cdbcli",
-        "kevinjqiu/phantomail"
+        "kevinjqiu/phantomail",
+        "roboll/helmfile"
       ]
     }
   ],
   "education": [
+    {
+      "institution": "University Illinois Urbana Champaign",
+      "area": "Computer Science",
+      "studyType": "Master",
+      "startDate": "2018-09-01",
+      "endDate": "2019-12-31",
+      "gpa": "3.94/4.00"
+    },
     {
       "institution": "University of Toronto",
       "area": "Computer Science (with Distinction)",

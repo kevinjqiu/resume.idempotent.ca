@@ -20,7 +20,7 @@
   },
   "homepage": "https://gitlab.com/hierarchicalpolymorphist/resume#README",
   "dependencies": {
-    "jshint": "^2.9.5",
+    "jshint": "^2.11.1",
     "jsonlint": "^1.6.3",
     "jsonresume-theme-classy": "^1.0.9",
     "resume-cli": "^0.4.19",
